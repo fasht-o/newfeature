@@ -63,7 +63,7 @@ const Navbar = () => {
             <a
               onClick={() => setshowMobileMenu(false)}
               href="#About"
-              className="px-4 py-2 rounded-full inline-block"
+              className="px-4 py-2 rounded inline-block"
             >
               About
             </a>
