@@ -1,7 +1,7 @@
 import React from "react";
 
 const feature = () => {
-  return <div></div>;
+  return <div>console.log(feautire)</div>;
 };
 
 export default feature;
