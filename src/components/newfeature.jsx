@@ -1,7 +1,11 @@
 import React from "react";
 
 const newfeature = () => {
-  return <div>console.log("feature1")</div>;
+
+  return <div>console.log("feature2")</div>;
+=======
+ 
+
 };
 
 export default newfeature;
